@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-
+import 'package:image_picker_platform_interface/image_picker_platform_interface.dart';
 import 'image_source_option.dart';
 
 typedef FutureVoidCallBack = Future<void> Function();
